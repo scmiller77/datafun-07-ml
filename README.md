@@ -30,3 +30,8 @@ git add..
 git commit -m "Message"
 git push origin
 ```
+
+## Chapters used
+```
+This project utilizes chapter 10.16 and 15.4 in Intro to Python for Computer Science and Data Science: Learaning to Program with AI, Big Data, and The Cloud 1st Edition
+```
